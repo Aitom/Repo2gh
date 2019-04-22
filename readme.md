@@ -1,16 +1,16 @@
-﻿#Repo2gh
+﻿# Repo2gh
 
-##Introducción
+## Introducción
 
 Esto es una prueba de uso particular de git. Este es un repositorio local.
 
-##Historia
+## Historia
 
 Esta es la historia de las versiones
 
-##Ultimos cambios
+## Ultimos cambios
 
-###Marzo 2014
+### Marzo 2014
 
 He añadido una linea y la he cambiado para probar como afecta
 
